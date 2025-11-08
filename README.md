@@ -24,3 +24,23 @@ PSX Web Scraper
 ├── requirements.txt          # Dependencies
 └── README.md                 # Project documentation
 ```
+## ⚙️ Installation & Setup
+1. Clone the Repository
+```
+git clone https://github.com/<your-username>/PSX-Web-Scraper.git
+cd PSX-Web-Scraper
+```
+
+2. Install Required Libraries
+```
+pip install -r requirements.txt
+```
+
+3. Run the Scraper
+```
+python psx_scraper.py
+```
+
+The script will fetch the latest KSE-100 index data every 10 seconds and append it to PSXWebScraperDataset.csv.
+
+To stop it, press Ctrl + C in the terminal.
