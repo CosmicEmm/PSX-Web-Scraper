@@ -8,3 +8,9 @@ A Python-based web scraping project that automatically extracts real-time KSE-10
 - ⏱️ Time Logging: Records timestamps to enable time-series trend analysis.
 - 💾 CSV Export: Stores clean, structured data for later analysis or visualization.
 - 🧰 Error Handling: Handles connection and parsing errors gracefully for reliability.
+## 🧠 Skills Demonstrated
+- Web Scraping with BeautifulSoup and Requests
+- Data Collection & Cleaning with Pandas
+- Data Automation & Scheduling using loops and time intervals
+- Data Storage in CSV format
+- Documentation & Version Control using Git and GitHub
