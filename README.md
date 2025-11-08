@@ -44,3 +44,8 @@ python psx_scraper.py
 The script will fetch the latest KSE-100 index data every 10 seconds and append it to PSXWebScraperDataset.csv.
 
 To stop it, press Ctrl + C in the terminal.
+## 🧑‍💻 Author
+
+Muhammad
+📍 Data Analyst | Python Programmer | Data Explorer
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/emmmuhammad/)
