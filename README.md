@@ -47,5 +47,7 @@ To stop it, press Ctrl + C in the terminal.
 ## 🧑‍💻 Author
 
 Muhammad
+
 📍 Data Analyst | Python Programmer | Data Explorer
+
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/emmmuhammad/)
