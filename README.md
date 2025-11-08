@@ -14,3 +14,11 @@ A Python-based web scraping project that automatically extracts real-time KSE-10
 - Data Automation & Scheduling using loops and time intervals
 - Data Storage in CSV format
 - Documentation & Version Control using Git and GitHub
+## 🏗️ Project Architecture
+PSX Web Scraper
+│
+├── PSXWebScraper.ipynb       # Jupyter Notebook version (for experimentation)
+├── psx_scraper.py            # Python script version (for continuous logging)
+├── PSXWebScraperDataset.csv  # Generated dataset (sample data)
+├── requirements.txt          # Dependencies
+└── README.md                 # Project documentation
