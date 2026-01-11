@@ -52,7 +52,7 @@ The script will fetch the latest KSE-100 index data every 10 seconds and append 
 
 To stop it, press Ctrl + C in the terminal.
 
-## 🧑‍💻 Author
+## Author
 
 Muhammad
 
